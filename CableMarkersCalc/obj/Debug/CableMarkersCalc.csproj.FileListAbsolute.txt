@@ -1,0 +1,9 @@
+C:\Users\itdept\Desktop\CableMarkersCalc\CableMarkersCalc\bin\Debug\CableMarkersCalc.exe.config
+C:\Users\itdept\Desktop\CableMarkersCalc\CableMarkersCalc\bin\Debug\CableMarkersCalc.exe
+C:\Users\itdept\Desktop\CableMarkersCalc\CableMarkersCalc\bin\Debug\CableMarkersCalc.pdb
+C:\Users\itdept\Desktop\CableMarkersCalc\CableMarkersCalc\obj\Debug\CableMarkersCalc.csprojResolveAssemblyReference.cache
+C:\Users\itdept\Desktop\CableMarkersCalc\CableMarkersCalc\obj\Debug\CableMarkersCalc.Form1.resources
+C:\Users\itdept\Desktop\CableMarkersCalc\CableMarkersCalc\obj\Debug\CableMarkersCalc.Properties.Resources.resources
+C:\Users\itdept\Desktop\CableMarkersCalc\CableMarkersCalc\obj\Debug\CableMarkersCalc.csproj.GenerateResource.Cache
+C:\Users\itdept\Desktop\CableMarkersCalc\CableMarkersCalc\obj\Debug\CableMarkersCalc.exe
+C:\Users\itdept\Desktop\CableMarkersCalc\CableMarkersCalc\obj\Debug\CableMarkersCalc.pdb
