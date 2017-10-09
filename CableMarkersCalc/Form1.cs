@@ -137,7 +137,7 @@ namespace CableMarkersCalc
                 int packValue = Convert.ToInt32(txtPack.Text);
 
                
-
+                // Caclulates minimum number of packets containing X-Number of Markers
                 if (zero != 0)
                     lblPackZero.Text = ((float)zero / packValue).ToString() + " packs of 0s";
                 if(one != 0)
