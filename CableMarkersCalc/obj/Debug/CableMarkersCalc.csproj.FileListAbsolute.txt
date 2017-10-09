@@ -7,3 +7,13 @@ C:\Users\itdept\Desktop\CableMarkersCalc\CableMarkersCalc\obj\Debug\CableMarkers
 C:\Users\itdept\Desktop\CableMarkersCalc\CableMarkersCalc\obj\Debug\CableMarkersCalc.csproj.GenerateResource.Cache
 C:\Users\itdept\Desktop\CableMarkersCalc\CableMarkersCalc\obj\Debug\CableMarkersCalc.exe
 C:\Users\itdept\Desktop\CableMarkersCalc\CableMarkersCalc\obj\Debug\CableMarkersCalc.pdb
+E:\Tek Signals KB\TS Dev\CableMarkersCalc\CableMarkersCalc\bin\Debug\CableMarkersCalc.exe.config
+E:\Tek Signals KB\TS Dev\CableMarkersCalc\CableMarkersCalc\obj\Debug\CableMarkersCalc.exe
+E:\Tek Signals KB\TS Dev\CableMarkersCalc\CableMarkersCalc\obj\Debug\CableMarkersCalc.pdb
+E:\Tek Signals KB\TS Dev\CableMarkersCalc\CableMarkersCalc\bin\Debug\CableMarkersCalc.exe
+E:\Tek Signals KB\TS Dev\CableMarkersCalc\CableMarkersCalc\bin\Debug\CableMarkersCalc.pdb
+E:\Tek Signals KB\TS Dev\CableMarkersCalc\CableMarkersCalc\obj\Debug\CableMarkersCalc.csprojResolveAssemblyReference.cache
+E:\Tek Signals KB\TS Dev\CableMarkersCalc\CableMarkersCalc\obj\Debug\CableMarkersCalc.Form1.resources
+E:\Tek Signals KB\TS Dev\CableMarkersCalc\CableMarkersCalc\obj\Debug\CableMarkersCalc.Properties.Resources.resources
+E:\Tek Signals KB\TS Dev\CableMarkersCalc\CableMarkersCalc\obj\Debug\CableMarkersCalc.csproj.GenerateResource.Cache
+E:\Tek Signals KB\TS Dev\CableMarkersCalc\CableMarkersCalc\obj\Debug\CableMarkersCalc.csproj.CoreCompileInputs.cache
